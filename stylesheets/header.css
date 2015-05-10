@@ -1,0 +1,14 @@
+/* line 3, ../sass/header.scss */
+.header {
+  width: 100%;
+  height: 30px;
+  background: black;
+}
+/* line 8, ../sass/header.scss */
+.header.blue {
+  background: blue;
+}
+/* line 12, ../sass/header.scss */
+.header a {
+  font-size: 24px;
+}

@@ -1,0 +1,15 @@
+$hh: 30px;
+
+.header {
+  width: 100%;
+  height: $hh;
+  background: black;
+
+  &.blue{
+    background: blue;
+  }
+
+  a {
+    font-size: 24px;
+  }
+}
